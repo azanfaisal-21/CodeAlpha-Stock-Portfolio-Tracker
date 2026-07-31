@@ -39,12 +39,6 @@ This project calculates the total investment value of a stock portfolio using pr
 python main.py
 ```
 
----
-
-(Add Screenshots)
-
----
-
 # Internship
 
 Submitted for CodeAlpha Python Internship.
